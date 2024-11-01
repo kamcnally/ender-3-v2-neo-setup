@@ -1,6 +1,8 @@
 # ender-3-v2-neo-setup
 
-## Current settings
+Repo for documenting my Ender v2 Neo migration to Klipper.
+
+## Marlin M503 output
 ```
 Send: M503
 Recv: echo:; Linear Units:
